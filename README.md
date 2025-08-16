@@ -1,4 +1,4 @@
-# Pontifex — Smart Contract Auditor
+# pontifex - smart contract auditor
 
 ## About Me
 I’m an independent smart contract auditor specializing in logical and arithmetical issues.  
