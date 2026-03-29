@@ -32,7 +32,8 @@ My strongest results are in DeFi/DEX/AMM protocols with multiple podium finishes
   - **Blueberry**
 
 - **Stablecoin**  
-  - [**DYAD**](https://github.com/pashov/audits/blob/master/team/pdf/Dyad-security-review.pdf) 
+  - [**DYAD**](https://github.com/pashov/audits/blob/master/team/pdf/Dyad-security-review.pdf)
+  - [**Tangent**](https://github.com/pashov/audits/blob/master/team/pdf/Tangent-security-review_2025-10-30.pdf) 
 
 - **Game**  
   - [**HoneyJar**](https://github.com/pashov/audits/blob/master/team/pdf/HoneyJar-security-review.pdf)  
@@ -45,17 +46,25 @@ My strongest results are in DeFi/DEX/AMM protocols with multiple podium finishes
   - [**Interpol**](https://github.com/pashov/audits/blob/master/team/pdf/Interpol-security-review_2024-12-24.pdf)  
   - [**Peapods**](https://github.com/pashov/audits/blob/master/team/pdf/Peapods-security-review_2024-11-16.pdf)  
   - [**TitanX**](https://github.com/pashov/audits/blob/master/team/pdf/TitanX-security-review.pdf)  
-  - [**Radiant**](https://github.com/pashov/audits/blob/master/team/pdf/Radiant-security-review-June.pdf)  
+  - [**Radiant**](https://github.com/pashov/audits/blob/master/team/pdf/Radiant-security-review-June.pdf)
+  - [**Saffron**](https://github.com/pashov/audits/blob/master/team/pdf/Saffron-security-review_2025-07-31.pdf)   
 
 - **Fundraising & Tokensales**  
   - [**MoarCandy**](https://github.com/pashov/audits/blob/master/team/pdf/MoarCandy-security-review.pdf)  
   - [**Bio**](https://github.com/pashov/audits/blob/master/team/pdf/Bio-security-review.pdf)  
   - [**Aburra**](https://github.com/pashov/audits/blob/master/team/pdf/Aburra-security-review.pdf)
+  - **OlympusX**
+  - **ShareToken**
 
 - **Others**  
   - [**LayerZero Orbit**](https://github.com/pashov/audits/blob/master/team/pdf/LZOrbit-security-review.pdf)
   - [**Endless Clouds**](https://github.com/pashov/audits/blob/master/team/pdf/EndlessClouds-security-review.pdf) 
   - **Crate**
+  - [**Regnum Aurum - RWA Tokenization**](https://github.com/pashov/audits/blob/master/team/pdf/RegnumAurum-security-review_2025-08-12.pdf)
+  - **Stormbit**
+  - **Liminal**
+  - **Insruxi**
+  - **Apriori**
 
 ---
 
