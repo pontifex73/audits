@@ -8,7 +8,7 @@ Focus: protocol mechanics, inconsistencies, model ↔ implementation divergence.
 
 ## Selected Cases
 
-- **Steadefi - mintFee timing issue (High)**
+- **Steadefi - mintFee timing issue**
 → [withdrawal priced on stale supply before fee minting, enabling excess asset withdrawal](https://github.com/pontifex73/audits/tree/main/steadefi-mintfee)
 
 - **Moonwell - liquidator rewards inconsistency**
