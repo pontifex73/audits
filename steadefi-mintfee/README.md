@@ -1,4 +1,4 @@
-# Steadefi — mintFee timing issue
+# Steadefi - mintFee timing issue
 
 ## Core idea
 
